@@ -8,3 +8,6 @@ def prime?(number)
   end   
  end
 end
+
+# created a range then turned it into an Array
+# .all? is the filter
