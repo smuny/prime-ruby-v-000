@@ -1,5 +1,5 @@
 def prime?(array)
-  if array.to_a == %2
+  if array.include? == %2
   return false
   else
     true
