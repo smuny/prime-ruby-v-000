@@ -1,3 +1,4 @@
+
 def prime?(array)
   if array.include? == %2
   return false
