@@ -1,8 +1,4 @@
 
-def prime?(array)
-  if array.include? == %2
-  return false
-  else
-    true
-  end 
+def prime?(number)
+  if number 
 end
