@@ -3,5 +3,5 @@ def prime?(array)
   return false
   else
     true
-  end # range of numbers use: to_a
+  end 
 end
