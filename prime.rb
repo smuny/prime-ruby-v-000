@@ -5,7 +5,7 @@ def prime?(number)
   else 
     (2..number-1).to_a.all? do |factor|
 binding.pry
-      number % factor 
+      number % factor != 0
   end   
  end
 end
