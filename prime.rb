@@ -1,3 +1,5 @@
 def prime?(array)
- array != %2
+ if array != %2
+   return true
+ end
 end
